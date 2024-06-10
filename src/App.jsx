@@ -1,8 +1,10 @@
 import './App.css';
-import Home from './components/Home/Home';
 
 const App = ()=> {
-  <Home/>
+  return <>
+  <h1>Hello world</h1>
+  <i class="fa-brands fa-youtube"></i>
+  </>
 }
 
 export default App;
